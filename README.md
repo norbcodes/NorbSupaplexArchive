@@ -9,6 +9,6 @@ That's all for now! Goodbye 👋</p>
 
 <h1>Version History</h1>
 <p><i>Currently, levels are still being added.</i></p>
-<b>12.2.2023</b> - Added all Megaplex levels from 2021.
+<b>12.2.2023 10:40 AM GMT+1 </b> - Added all Megaplex levels from 2021.
 
-<b>12.2.2023</b> - Added 4 SP levels from 2021.
+<b>12.2.2023 1:17 AM GMT+1 </b> - Added 4 SP levels from 2021.
