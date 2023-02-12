@@ -1,0 +1,10 @@
+7.12.2021 - Date of creation.
+
+Level name: "MAZE"
+
+My first SUPAPLEX level.
+
+Custom music: None
+Custom colors: None
+
+Play at: https://www.supaplex.online/play/?levelset=Norb_MAZE.sp&level=1
