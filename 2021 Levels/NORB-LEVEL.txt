@@ -2,7 +2,7 @@
 
 Level name: "NORB LEVEL!"
 
-Another easy level, as a Christmas present haha.
+Another easy level, as a Christmas present, haha.
 
 Custom music: None
 Custom colors: None
