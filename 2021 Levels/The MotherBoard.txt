@@ -1,0 +1,9 @@
+14.11.2021 - Date of creation.
+
+One of my old Megaplex levels. I made the unfortunate mistake setting the Infotron required count to 1 above the amount of Infotrons in the level...
+Nothing too hard though.
+
+Custom music: None
+Custom colors: None
+
+Play at: https://www.supaplex.online/play/?levelset=Norb_megaplex_levels_The%20MotherBoard.mpx&level=1
