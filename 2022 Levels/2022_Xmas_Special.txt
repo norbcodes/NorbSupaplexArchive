@@ -1,0 +1,44 @@
+24.12.2022 - Date of creation.
+
+A little 5 level levelset, as a Christmas gift!
+Shouldn't be too hard to finish, though level 2, in my opinion, is the hardest of them.
+Enjoy!
+
+Custom music: https://www.youtube.com/playlist?list=PLcBsoxxTLkVb01faM4bQRdrwzeWvN_glE
+Custom colors: See at the bottom*
+
+Play at: https://www.supaplex.online/play/?levelset=Norb_2022_Xmas_Special.DAT&level=1
+
+
+
+
+
+
+
+
+*colors
+{
+    "color_background":0,
+    "color_plate":6381921,
+    "color_pathways":9079434,
+    "color_chips":7368816,
+    "color_chips_silver_pins":true,
+    "color_hardware":4868682,
+    "color_terminal":8421504,
+    "color_terminal_screen":0,
+    "color_terminal_screen_active":0,
+    "color_terminal_text":16777215,
+    "color_terminal_text_active":0,
+    "color_ports_sides":11908533,
+    "color_ports_segments":7039851,
+    "color_disks":4539717,
+    "color_snik_snaks":16777215,
+    "color_zonks":14079702,
+    "color_zonks_hl":false,
+    "color_infotrons_1":16777215,
+    "color_infotrons_2":16777215,
+    "color_infotrons_3":16777215,
+    "color_infotrons_4":16777215,
+    "color_infotrons_5":16777215,
+    "color_infotrons_6":16777215
+}

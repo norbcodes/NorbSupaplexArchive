@@ -1,0 +1,9 @@
+20.11.2022 - Date of creation.
+
+A 12 level levelset, each level being increasingly bigger. Starting from 1x1 to 12x12.
+Nothing too hard.
+
+Custom music: None
+Custom colors: None
+
+Play at: https://www.supaplex.online/play/?levelset=Norb_Scale.DAT&level=1
