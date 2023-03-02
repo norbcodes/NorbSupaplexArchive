@@ -7,6 +7,11 @@ You can find here all the levels that I made for Supaplex and Megaplex, alongsid
 <p>I'll make sure to update this whenever I upload more levels.
 That's all for now! Goodbye 👋</p>
 
+<h1>Checkout MF366's Supaplex Archive!</h1>
+<p>An insanely large Supaplex archive made by MF366!
+<a href="https://github.com/MF366-Coding/The-Ultimate-Supaplex-Archive">Found here.</a>
+</p>
+
 <h1>Version History</h1>
 <p><i>Currently, levels are still being added.</i></p>
 <p>
